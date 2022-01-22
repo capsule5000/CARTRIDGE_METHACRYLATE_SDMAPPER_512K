@@ -4,6 +4,6 @@ This methacrylate cartridge is specially designed for the SDMAPPER 512K PCB of t
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_SDMAPPER_512K/blob/main/Images/front_SDMAPPER_512K.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_SDMAPPER_512K/blob/main/Images/front_SDMAPPER512K.png)
 
 ![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_SDMAPPER_512K/blob/main/Images/rear_SDMAPPER_512K.png)
